@@ -6,6 +6,12 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
+  - [Renderers](#renderers)
+  - [Online Games](#online-games)
+  - [Community](#community)
+- [License](#license)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Renderers
